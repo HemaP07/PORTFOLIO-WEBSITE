@@ -1,12 +1,7 @@
-/* ===========================
-   GOOGLE FONT
-=========================== */
+
 
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap');
 
-/* ===========================
-   GLOBAL
-=========================== */
 
 *{
     margin:0;
@@ -31,7 +26,7 @@ section{
     margin:auto;
 }
 
-/* Scroll Bar */
+
 
 ::-webkit-scrollbar{
     width:8px;
@@ -46,9 +41,7 @@ section{
     background:#111827;
 }
 
-/* ===========================
-   NAVBAR
-=========================== */
+
 
 .navbar{
 
@@ -96,9 +89,7 @@ section{
 
 }
 
-/* ===========================
-   HOME
-=========================== */
+
 
 #home{
 
@@ -172,9 +163,7 @@ section{
 
 }
 
-/* ===========================
-   BUTTONS
-=========================== */
+
 
 .btn1,
 .btn2{
@@ -246,9 +235,7 @@ section{
 }
 
 
-/*==========================
-    PROFILE IMAGE
-==========================*/
+
 
 .image-card{
 
@@ -295,9 +282,7 @@ section{
 
 }
 
-/*==========================
-    FLOATING ICONS
-==========================*/
+
 
 .floating{
 
@@ -338,7 +323,7 @@ color:white;
 
 }
 
-/* HTML */
+
 
 .html{
 
@@ -348,7 +333,7 @@ left:-25px;
 
 }
 
-/* CSS */
+
 
 .css{
 
@@ -360,7 +345,7 @@ animation-delay:1s;
 
 }
 
-/* JS */
+
 
 .js{
 
@@ -372,7 +357,7 @@ animation-delay:2s;
 
 }
 
-/* React */
+
 
 .react{
 
@@ -384,7 +369,7 @@ animation-delay:3s;
 
 }
 
-/* Python */
+
 
 .python{
 
@@ -418,9 +403,7 @@ transform:translateY(0);
 
 }
 
-/* ===========================
-   SECTION TITLE
-=========================== */
+
 
 .section-title{
 
@@ -439,9 +422,7 @@ transform:translateY(0);
     margin-top:10px;
 
 }
-/* ===================================
-   EDUCATION
-=================================== */
+
 
 .education-card{
 
@@ -521,9 +502,7 @@ transform:translateY(0);
 
 }
 
-/* ===================================
-   SKILLS
-=================================== */
+
 
 .skill-card{
 
@@ -585,9 +564,7 @@ transform:translateY(0);
 
 }
 
-/* ===================================
-   CERTIFICATES
-=================================== */
+
 
 .certificate-card{
 
@@ -623,9 +600,7 @@ transform:translateY(0);
 
 }
 
-/* ===================================
-   PROJECTS
-=================================== */
+
 
 .project-card{
 
@@ -675,9 +650,7 @@ transform:translateY(0);
 
 }
 
-/*==================================
-          CONTACT SECTION
-==================================*/
+
 
 #contact{
     padding:100px 0;
@@ -789,7 +762,7 @@ transform:translateY(0);
 
 }
 
-/* Contact Heading */
+
 
 #contact .section-title{
 
@@ -817,9 +790,7 @@ transform:translateY(0);
 
 }
 
-/* ===================================
-   FOOTER
-=================================== */
+
 
 .footer{
 
@@ -889,9 +860,7 @@ transform:translateY(0);
 
 }
 
-/* ===================================
-   ANIMATION
-=================================== */
+
 
 .education-card,
 .skill-card,
